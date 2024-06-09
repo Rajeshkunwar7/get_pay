@@ -1,0 +1,23 @@
+[
+  {
+    "brand": "KenGen1 power",
+    "date": "12-04-08",
+    "status": false,
+    "due": "1280.00",
+    "more": "Pay before"
+  },
+  {
+    "brand": "KenGen2 power",
+    "date": "12-01-09",
+    "status": false,
+    "due": "8900.00",
+    "more": "Pay before"
+  },
+  {
+    "brand": "KenGen3 power",
+    "date": "12-10-10",
+    "status": false,
+    "due": "6732.00",
+    "more": "Pay before"
+  }
+]
